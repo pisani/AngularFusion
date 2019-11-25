@@ -1,0 +1,5 @@
+{
+    "server":"localhost",
+    "port":"52773",
+    "url": "api/v1/myApp"
+  }
